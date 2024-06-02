@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/texutils/static/css/main.1cdbf67e.css",
+    "main.js": "/texutils/static/js/main.ccafe4e3.js",
+    "static/js/453.857fa5c5.chunk.js": "/texutils/static/js/453.857fa5c5.chunk.js",
+    "index.html": "/texutils/index.html",
+    "main.1cdbf67e.css.map": "/texutils/static/css/main.1cdbf67e.css.map",
+    "main.ccafe4e3.js.map": "/texutils/static/js/main.ccafe4e3.js.map",
+    "453.857fa5c5.chunk.js.map": "/texutils/static/js/453.857fa5c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cdbf67e.css",
+    "static/js/main.ccafe4e3.js"
+  ]
+}
